@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminCompras\AgregarLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminCompras\AgregarProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminCompras\EstadoDeCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminCompras\Historial de compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminCompras\PagosProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminCompras\RegistroDeContractacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminCompras\Alertas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminCompras\InicioAdminCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminCompras\Proveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminCompras\Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminGeneral\ControlDeUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminGeneral\GestionDeCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminGeneral\HistorialCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminGeneral\InicioAdministradorGeneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminVentas\CobroEfectivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminVentas\DefinicionDeTipoFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminVentas\Devoluciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminVentas\GestionDePedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminVentas\HistorialDeDevolucionParcial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminVentas\HistorialDeDevolucionTotal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminVentas\HistorialDeFacturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminVentas\InicioAdminVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminVentas\NotasDeCredito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cliente\CarritoDeCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cliente\CerrarSesionCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cliente\CobroClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cliente\CobroExitoso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cliente\InicioCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cliente\PerfilCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cliente\RegistroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cliente\SeleccionDeLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Recupero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+C:\Fabri\Instituto 2024\Practicas III\Libreria Practicas\bin\Debug\net6.0-windows\Libreria Practicas.exe
+C:\Fabri\Instituto 2024\Practicas III\Libreria Practicas\bin\Debug\net6.0-windows\Libreria Practicas.deps.json
+C:\Fabri\Instituto 2024\Practicas III\Libreria Practicas\bin\Debug\net6.0-windows\Libreria Practicas.runtimeconfig.json
+C:\Fabri\Instituto 2024\Practicas III\Libreria Practicas\bin\Debug\net6.0-windows\Libreria Practicas.dll
+C:\Fabri\Instituto 2024\Practicas III\Libreria Practicas\bin\Debug\net6.0-windows\Libreria Practicas.pdb
+C:\Fabri\Instituto 2024\Practicas III\Libreria Practicas\obj\Debug\net6.0-windows\Libreria Practicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fabri\Instituto 2024\Practicas III\Libreria Practicas\obj\Debug\net6.0-windows\Libreria Practicas.AssemblyInfoInputs.cache
+C:\Fabri\Instituto 2024\Practicas III\Libreria Practicas\obj\Debug\net6.0-windows\Libreria Practicas.AssemblyInfo.cs
+C:\Fabri\Instituto 2024\Practicas III\Libreria Practicas\obj\Debug\net6.0-windows\Libreria Practicas.csproj.CoreCompileInputs.cache
+C:\Fabri\Instituto 2024\Practicas III\Libreria Practicas\obj\Debug\net6.0-windows\Libreria Practicas.dll
+C:\Fabri\Instituto 2024\Practicas III\Libreria Practicas\obj\Debug\net6.0-windows\refint\Libreria Practicas.dll
+C:\Fabri\Instituto 2024\Practicas III\Libreria Practicas\obj\Debug\net6.0-windows\Libreria Practicas.pdb
+C:\Fabri\Instituto 2024\Practicas III\Libreria Practicas\obj\Debug\net6.0-windows\Libreria Practicas.genruntimeconfig.cache
+C:\Fabri\Instituto 2024\Practicas III\Libreria Practicas\obj\Debug\net6.0-windows\ref\Libreria Practicas.dll
